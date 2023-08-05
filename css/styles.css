@@ -1,0 +1,248 @@
+body {
+    background: #f6f6fa;
+    padding: 40px;
+
+    color: #595959;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+
+    font-family: "Montserrat", sans-serif;
+}
+
+h3 {
+    color: #000;
+    font-size: 22px;
+    font-weight: 700;
+    margin-top: 0;
+    margin-bottom: 8px;
+}
+
+h4 {
+    color: #000;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: normal;
+    font-style: normal;
+
+    margin-top: 0;
+    margin-bottom: 12px;
+}
+
+h5 {
+    color: #000;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 0;
+    margin-bottom: 8px;
+}
+
+p {
+    color: #a8a8a8;
+    font-weight: 400;
+    margin-top: 0;
+    margin-bottom: 8px;
+}
+
+ol,
+ul {
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 18px;
+}
+
+li {
+    color: #595959;
+    line-height: 24px;
+
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+li::marker {
+    font-weight: 700;
+}
+
+li::content {
+    font-weight: 400;
+}
+
+.wrapper-div {
+    background: white;
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.main-content-div {
+    padding-left: 88px;
+    padding-top: 80px;
+    padding-right: 40px;
+    padding-bottom: 80px;
+    box-sizing: border-box;
+}
+
+/* Left Sidebar */
+aside p {
+    margin-top: 0;
+    margin-bottom: 4px;
+}
+
+aside li {
+    color: #161d2a;
+    line-height: 24px;
+}
+
+aside li::marker {
+    font-weight: 700;
+}
+
+aside li::content {
+    font-weight: 400;
+}
+
+.left_aside_bar {
+    background: #e0ebfe;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    width: 370px;
+    box-sizing: border-box;
+}
+
+.left_side_bar_content {
+    padding-left: 40px;
+    padding-top: 40px;
+    padding-right: 40px;
+    box-sizing: border-box;
+}
+
+.contacts_skills_div {
+    margin-bottom: 40px;
+}
+
+.contacts_title {
+    color: #161d2a;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 0;
+    margin-bottom: 8px;
+}
+
+.contact_first_letter {
+    color: #161d2a;
+    font-weight: 700;
+    line-height: 24px;
+    margin-right: 8px;
+}
+
+.contact_link {
+    color: #2979ff;
+    font-weight: 400;
+    line-height: 24px;
+    text-decoration-line: underline;
+}
+
+/* Main content */
+
+.FE_developer_header {
+    color: #000;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 17px;
+    margin-top: 0;
+    margin-bottom: 8px;
+}
+
+.about_me {
+    margin-top: 0;
+    margin-bottom: 40px;
+}
+
+h1 {
+    color: #000;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 55px;
+    margin-top: 0;
+    margin-bottom: 0px;
+}
+
+.my_description {
+    color: #595959;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    margin-top: 0;
+    margin-bottom: 0px;
+
+    line-height: 24px;
+}
+
+.my_projects_div {
+    margin-top: 0;
+    margin-bottom: 40px;
+}
+
+.work_exp_div {
+    margin-top: 0;
+    margin-bottom: 12px;
+}
+
+.work_exp_div p {
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 15px;
+}
+
+.last_work_exp_div {
+    margin-top: 0;
+    margin-bottom: 40px;
+}
+
+.last_work_exp_div p {
+    font-size: 12px;
+    line-height: 15px;
+}
+
+.blue_text_span {
+    color: #6d9bf5;
+}
+
+.university {
+    font-weight: 700;
+    margin-top: 0;
+    margin-bottom: 8px;
+}
+
+.university .blue_text_span {
+    color: #6d9bf5;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 0;
+    margin-bottom: 8px;
+}
+
+.university h5 {
+    color: #000;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.university p {
+    color: #a8a8a8;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.delimiter {
+    color: #000;
+}
